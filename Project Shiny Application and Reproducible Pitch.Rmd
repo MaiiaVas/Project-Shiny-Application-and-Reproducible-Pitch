@@ -1,0 +1,40 @@
+---
+title: "Project Shiny Application and Reproducible Pitch"
+author: "Maiia Vasileva"
+date: "2024-12-11"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+
+## Project overview
+
+This peer assessed assignment has two parts.
+
+Shiny Application:
+
+- Write a shiny application
+- Deploy the application on Rstudio's shiny server
+- Share the application link
+- Share your server.R and ui.R code on github
+
+Reproducible Pitch Presentation:
+
+- 5 slides to pitch idea done in Slidify or Rstudio Presenter
+- Presentation pushed to github or Rpubs
+- Share the presentation link on github or Rpubs
+
+
+## Application Data
+
+To use this application you need to select your loan parameters (Loan Amount, Interest Rate, & Fixed Payment Amount). Then you will see the calculated Loan Term, Total Finance Charge, and Total of all loan payments. Also you can see a plot of the remain loan balance as the loan is paid off. Lastly, the full amortization table is available to inspect
+
+## Application
+![This is a photo of the app](app.png){width=75%}
+App
+
+## Plot
+![This is a photo of the plot](plot.png){width=75%}
+Plot
+
